@@ -1,0 +1,67 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+h6{
+text-align: center;
+color: white;
+
+}
+
+#homoe-m li{
+
+    display: inline;
+}
+
+#homoe-m li a {
+    color: white;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+  display: inline;
+  transition: background .6s;
+}
+body{
+
+    background-color: #84e1ad;
+}
+main{
+    background-image: linear-gradient(to top, #207144, #30ab67, 
+    #3dda84);
+    padding: 20px;
+}
+ #homoe-m li  :hover{
+    background-color: #84e1ad;
+    border-radius: 10px;
+ }
+
+
+
+#historia h1{
+    color: green;
+   
+}
+
+#historia p {
+    color: green;
+    width: 600px;
+}
+
+#historia{
+    width: 650px;
+    background-color: white;
+    text-align: justify;
+    padding: 10px;
+}
+img{
+    width: 650px;
+}

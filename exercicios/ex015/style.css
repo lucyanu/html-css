@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+
+body{
+    background-color: aqua;
+    font-family: cursive;
+    font-size: 20px;
+
+    background-image: linear-gradient(to top) red, green, blue;
+}
+
+h1{
+color: rgb(57, 196, 115);
+font-size: 30px;
+background-color: rgb(201, 84, 138);
+}
+
+p{
+    border-radius: 50%;
+
+
+}
+
+
+
+    
+
+

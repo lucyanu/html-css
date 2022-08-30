@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body{
+
+   background-image: linear-gradient(pink,rgb(236, 208, 208));
+   background-attachment: fixed;
+}
+
+main{
+    width: 600px;
+    margin: auto;
+  background-image: linear-gradient(white, rgb(247, 241, 242));
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px black;
+}
+
+h1{
+    margin: auto;
+    color: rgb(228, 194, 131);
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+
+}
+ 
+h2{
+    color: rgb(146, 218, 218);
+
+}
+
+
